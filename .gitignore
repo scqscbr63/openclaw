@@ -1,0 +1,10 @@
+node_modules/
+.clawhub/
+.openclaw/
+*.png
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+**/Zone.Identifier
